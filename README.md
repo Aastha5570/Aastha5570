@@ -18,11 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aastha5570&show_icons=true&theme=github_dark" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aastha5570&layout=compact&theme=github_dark" width="45%"/>
-</div>
 
 ---
 
