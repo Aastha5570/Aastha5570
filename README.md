@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Aastha5570)
 - 💬 Ask me about **Python, Django, Node.js, JavaScript, React.js**
 - 📫 How to reach me: **aasthagupta5570@gmail.com**
-- ⚡ Fun fact: **I believe coffee and code make the perfect combo ☕💻**
+- ⚡ Fun fact: **my hobby is doing nothing**
 
 ---
 
