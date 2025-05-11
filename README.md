@@ -16,8 +16,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,react,html,css,js,git,github,vscode" />
 </p>
 
----
-
 
 ---
 
