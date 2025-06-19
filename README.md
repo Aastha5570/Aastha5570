@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced Web Development** with **Node.js** and **React.js**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Aastha5570)
-- 💬 Ask me about **Python, Django, Node.js, JavaScript, React.js**
+- 💬 Ask me about **Python, Javascript, Django, Node.js, JavaScript, React.js**
 - 📫 How to reach me: **aasthagupta5570@gmail.com**
 - ⚡ Fun fact: **my hobby is doing nothing**
 
