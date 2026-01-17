@@ -21,6 +21,14 @@
 
 ## 🔗 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/aastha-gupta-438410315" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
-  <a href="mailto:aasthagupta5570@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aastha-gupta-438410315" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="mailto:aasthagupta5570@gmail.com" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" />
+  </a>
+  <a href="https://github.com/Aastha5570" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
+  </a>
 </p>
+
