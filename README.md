@@ -13,7 +13,7 @@
 
 ## Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,js,git,github,vscode,native,flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,js,git,github,vscode,flutter" />
 </p>
 
 
