@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- I’m currently learning **Advanced Web Development** with **Node.js** and **React.js** as well as doing app dev. using **react-native** and **flutter**
+- I’m currently learning **Advanced App Development** with using **react-native** as well as **flutter**
 - All of my projects are available on [GitHub](https://github.com/Aastha5570)
 - Ask me about **Python, Javascript, Django, Node.js, JavaScript, React.js**
 - How to reach me: **aasthagupta5570@gmail.com**
