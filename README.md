@@ -7,7 +7,7 @@
 - All of my projects are available on [GitHub](https://github.com/Aastha5570)
 - Ask me about **Python, Javascript, Django, Node.js, JavaScript, React.js**
 - How to reach me: **aasthagupta5570@gmail.com**
-- Fun fact: **my hobby is doing nothing**
+- Fun fact: **my hobby is doing nothing..**
 
 ---
 
@@ -30,4 +30,3 @@
     <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
   </a>
 </p>
-
