@@ -8,7 +8,7 @@
 ###  About Me:
 -  I’m a **Full Stack Developer** with a strong focus on **MERN Stack**
 -  I develop mobile applications using both **React Native** and **Flutter**
--  Currently learning **Advanced App Development** to build scalable and high-performance apps
+-  Currently learning **Advanced JAVA Development** to build scalable and high-performance apps
 -  I enjoy building real-world projects that solve practical problems
 -  Fun fact: **My hobby is doing nothing... and somehow still being productive 😄**
 
