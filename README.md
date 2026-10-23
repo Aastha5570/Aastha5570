@@ -39,6 +39,9 @@ B.E. IN Computer Engineering (2024-2028)
   <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,js,git,github,vscode,flutter" />
 </p>
 
+---
+
+###  Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/aastha-gupta-438410315" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
