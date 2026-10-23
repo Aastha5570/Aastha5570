@@ -1,5 +1,5 @@
 <h1 align="center">Hey!  I'm Aastha Gupta</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | App Developer | JAVA Developer </h3>
+<h3 align="center">Full-Stack Developer | MERN Stack Developer | App Developer | Java Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
@@ -16,8 +16,11 @@
 
 ###  My Work:
 -  All of my projects are available on [GitHub](https://github.com/Aastha5570)
--  I have developed multiple apps using **React Native** and **Flutter**
--  Feel free to explore my **public repositories** to see my work
+- **Java Developer** with strong programming and problem-solving skills.
+- Proficient in **SQL** and database management.
+- Skilled in **Full-Stack Development**, with proficiency in both frontend and backend technologies.
+- Experienced in **Application Development**, focusing on building efficient and user-friendly applications.
+- Maintained an overall **CGPA of 9.3** through the second year; currently pursuing the third year.
 
 ---
 
