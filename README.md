@@ -29,14 +29,16 @@
 
 ---
 
+###  EDUCATION :
+B.E. IN Computer Engineering (2024-2028)
+
+---
+
 ###  Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,react,html,css,js,git,github,vscode,flutter" />
 </p>
-
----
-
-###  Connect With Me:
+Full-Stack Developer | MERN Stack Developer | App Developer | Java Developer###  Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/aastha-gupta-438410315" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
